@@ -1,4 +1,4 @@
-# Linear Regression and Multiple Linear Regression Models
+# Linear Regression Models
 
 이 코드는 간단한 경사 하강법 기반 접근법부터 PyTorch 기반 구현까지 다양한 선형 회귀 모델 구현을 보여줍니다.
 
